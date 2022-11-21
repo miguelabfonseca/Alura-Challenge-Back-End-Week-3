@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "tvv",
+            "database": "${workspaceFolder:challenge-w3}/database/database.sqlite"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
